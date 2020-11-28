@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-11-10T18:20:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482003449",
+        "addr:housenumber": "456",
+        "addr:street": "Lisgar Street",
+        "building": "yes",
+        "source": "City of Ottawa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.701278,
+              45.415037
+            ],
+            [
+              -75.701399,
+              45.414986
+            ],
+            [
+              -75.701325,
+              45.414897
+            ],
+            [
+              -75.701204,
+              45.414948
+            ],
+            [
+              -75.701278,
+              45.415037
+            ]
+          ]
+        ]
+      },
+      "id": "way/482003449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/482003471",
+        "addr:housenumber": "466",
+        "addr:street": "Lisgar Street",
+        "building": "yes",
+        "source": "City of Ottawa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.701406,
+              45.414983
+            ],
+            [
+              -75.701563,
+              45.414918
+            ],
+            [
+              -75.70149,
+              45.41483
+            ],
+            [
+              -75.701332,
+              45.414895
+            ],
+            [
+              -75.701406,
+              45.414983
+            ]
+          ]
+        ]
+      },
+      "id": "way/482003471"
+    }
+  ]
+}
